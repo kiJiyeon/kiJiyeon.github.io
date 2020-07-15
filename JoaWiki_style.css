@@ -1,0 +1,19 @@
+@charset "utf-8";
+    
+P {
+    color: tomato;
+
+}/* P태그를 가진 녀석들은 토마토 색으로 표시하라 */
+
+#sorry {
+    color: pink;
+    font-size : 15px;
+    text-decoration : underline;
+    border : solid;
+}/* id를 가진 녀석은  앞에다가 #을 붙여줘야함 */
+
+.main_text{
+    font-size : 30px;
+}
+/* } 클래스는 앞에 다가 .을 붙여줘야함 */
+
